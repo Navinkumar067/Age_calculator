@@ -1,4 +1,4 @@
-# 🎂 Age Calculator
+#  Age Calculator
 
 A simple and responsive Age Calculator web application built using **HTML**, **CSS**, and **JavaScript**.  
 Users can input their **Date of Birth (D.O.B)** — day, month, and year — and the app will calculate and display their exact age in **years, months, and days**.
